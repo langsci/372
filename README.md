@@ -1,4 +1,4 @@
-# A grammar of Ulwa (Papua New Guinea) % \subtitle{Change your subtitle in localmetadata.tex}
+# A grammar of Ulwa (Papua New Guinea)  
 ## Publication Info
 - Authors: Russell Barlow
 - Publication Date: not yet published
