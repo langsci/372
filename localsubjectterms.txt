@@ -1,0 +1,649 @@
+A-lability
+abilitative
+ablative
+absolutive
+abstract noun
+accessibility hierarchy
+accusative
+accusative alignment
+action
+active voice
+active-stative alignment
+adjectival phrase
+adjective
+adjoined relative clause
+adjunct
+adnominal possessor
+adposition
+adpositional phrase
+adverb
+adverbial phrase
+affectedness
+affective pronoun
+affirmative
+affix
+affricate
+agent
+agent noun
+agglutination
+agreement
+Aktionsart
+alienable possession
+alignment
+allomorphy
+allophony
+alveolar
+ambitransitive
+analogy
+analytic
+analytic passive
+anaphor
+anaphoric reference
+animacy
+animacy hierarchy
+animate
+antecedent
+antipassive
+apheresis
+apocope
+apodosis
+apostrophe
+applicative
+apposition
+approximant
+areal term
+argument alignment
+assimilation
+associative dual
+associative plural
+asyndetic coordination
+atelicity
+attributional clause
+attributive adjective
+attributive clause
+attributive predication
+auxiliary verb
+back vowel
+backformation
+base-10
+base-20
+base-5
+basic color term
+basic constituent order
+basic vocabulary
+basic word order
+benefactive
+biclausal construction
+Bien River
+binding
+binding domain
+body part term
+body-part tallying
+borrowing
+calque
+cardinal numeral
+case frame
+case marker
+case morphology
+causal subordinate clause
+causative
+causee
+causer
+central vowel
+central vowel elision
+circumfix
+classification
+classificational clause
+classificatory predication
+classifier
+clausal object
+clause chain
+clause chaining
+clause-final negator
+clitic
+clusivity
+coda
+code-switching
+cognacy
+cognate accusative
+coinage
+colexification
+collective universal quantifier
+color term
+comitative
+command
+commiserative pronoun
+common noun
+comparative
+complement clause
+complementizer
+complex coda
+complex onset
+complex predicate
+complex sentence
+compound
+compound noun
+compound verb
+conative
+concessive
+concessive coordination
+concessive subordinate clause
+concrete noun
+conditional
+conditional sentence
+conjunct
+conjunction
+connected speech
+consonant
+consonant inventory
+consonant-to-vowel ratio
+constituent order
+content question
+continuous
+controlled
+coordinating conjunction
+coordination
+coordinator
+copula
+copular clitic
+copulative compound
+core argument
+core argument alignment
+coronal
+correlative
+correlative relative clause
+count noun
+counterfactual
+dative
+dative construction
+decimal
+declarative
+decreased transitivity
+definiteness
+degemination
+deictic center
+deixis
+demonstrative
+demotion
+deontic modality
+dependent
+dependent clause
+dependent marker
+derivation
+derivational morphology
+desiderative
+determiner
+detransitivization
+detransitivizer
+dialect
+digit tallying
+digraph
+diphthong
+direct discourse
+direct object
+direct-inverse alignment
+direction
+directive mood
+disadvantage
+discontinuous phrase
+discourse adverb
+disjunctive coordination
+distal
+distributive universal quantifier
+ditransitive
+ditransitive alignment
+dorsal
+double perfective
+dual
+dummy object
+dummy word
+durative
+egocentric
+elevation
+elision
+ellipsis
+embedded clause
+emphatic pronoun
+enclitic
+enclitic copula
+endangerment
+endocentric compound
+epenthesis
+epistemic
+epistemic adverb
+equational clause
+equative clause
+equative predication
+ergative
+ergativity
+evidentiality
+exclamation
+exclusive
+exhortation
+existential clause
+existential predication
+exocentric compound
+experiencer
+expletive
+factitive
+factual condition
+farewell
+final verb
+floor-holding
+fluid alignment
+folk etymology
+formulaic expression
+fortification
+fossilization
+fricative
+front vowel
+frustrative
+function word
+fusion
+future
+gap strategy
+gender
+genealogical affiliation
+genealogical classification
+genitive
+gift
+given information
+giver
+glide
+glide formation
+gliding
+glottal
+glottal stop
+glottalization
+glottonym
+grammatical attrition
+grammatical relation
+grammaticalization
+grapheme
+greeting
+habitual
+head
+head noun
+head-internal relative clause
+head-marking
+hierarchy
+high central vowel assimilation
+high vowel
+high vowel gliding
+homonymy
+hortative
+hypercorrection
+hypothetical
+hypothetical condition
+iconic reduplication
+iconicity
+identificational clause
+identificational predication
+ideophone
+idiolect
+idiom
+imperative
+imperfective
+impersonal construction
+implicative condition
+in situ
+inalienable possession
+inanimate
+inceptive
+inchoative
+inchoative imperfective
+inclusive
+inclusory construction
+indefinite object deletion
+indefinite pronoun
+independent
+indeterminate valence orientation
+indicative
+indirect discourse
+indirect object
+Indo-Pacific hypothesis
+induced verb
+infinitive
+infix
+inflection
+ingressive
+instrument
+insubordination
+intensifier
+intensive pronoun
+intention
+intentive
+interjection
+interrogative
+interrogative pronoun
+interrogative verb
+interrogative word
+intersentential code-switching
+intonation
+intransitive
+intrasentential code-switching
+inverted word order
+irony
+irrealis
+irrealis perfective
+irregular verb
+isolating
+iterative
+jussive
+juxtaposition
+Keram Black River
+Keram River
+kinship
+labial
+lability
+language classification
+language endangerment
+language loss
+language shift
+language vitality
+lateral
+leading question
+Leonhard Schultze family
+lexical change
+lexical class
+lexical semantics
+lexicon
+light verb
+liquid
+litotes
+loanword
+local assimilation
+location
+locational predication
+locative
+locative adverb
+locative predication
+locative verb
+logophoric pronoun
+logophoricity
+long-distance anaphoric reference
+low vowel
+manner adverb
+Marienberg family
+mass noun
+matrix clause
+medial clause
+medial verb
+metaphor
+metathesis
+metonymy
+mid vowel
+middle voice
+minimal pair
+modal adverb
+monoclausal construction
+monoclausal sentence
+monophthong
+monophthongization
+mood
+morphological change
+morphology
+morphophonemic process
+morphosyntactic alignment
+motion
+multiclausal construction
+multiple question
+nasal
+negation
+negative command
+negative concord
+negative desire
+negative response
+negative scope
+negator
+neutral alignment
+New Guinea
+new information
+nomen agentis
+nomen patientis
+nominal adjunct
+nominal inflection
+nominalization
+nominalized verb phrase
+nominative
+nominative-accusative alignment
+non-adjacent relative clause
+non-canonical argument structure
+non-core NP
+non-finite verb form
+non-subject marker
+non-verbal clause construction
+non-verbal negation
+non-verbal predication
+noun incorporation
+noun phrase
+null suffix
+numeral
+nursery form
+object deletion
+object marker
+object marking
+object of a postposition
+oblique
+oblique argument
+oblique marker
+obsolescence
+onomatopoeia
+onset
+optative
+ordinal numeral
+origin
+orthography
+OV language
+P-lability
+palatal
+palato-alveolar
+palato-alveolar affricate
+Papuan
+paragoge
+paralinguistic gesture
+paratactic relative clause
+parataxis
+pars pro toto
+particle
+partitive
+partitive intensive pronoun
+passive
+passive voice
+past tense
+patient
+patient noun
+pejoration
+penult
+penultimate
+perception verb
+perfective
+periphrasis
+permissive
+person
+personal noun
+personal pronoun
+phoneme inventory
+phonetics
+phonological change
+phonology
+phonotactics
+phrase
+placeholder word
+plain verb
+plosive
+pluperfect
+pluractionality
+plural
+polar question
+polarity
+politeness
+polysemy
+Porapora River
+positive
+possessed
+possession
+possessive predicate
+possessive predication
+possessive pronoun
+possessor
+possessum
+postposition
+postpositional phrase
+potential
+potentiality
+pragmatics
+predicate
+predicate adjective
+predicate complement
+predicate marker
+predicate nominative
+predication
+predicative adjective
+prefix
+prenasalization
+prenasalized voiced stop
+preposition
+pro-drop
+proclitic
+progressive
+prohibition
+pronoun
+proper noun
+prosodic unit
+protasis
+prothesis
+protolanguage
+proximal
+punctuality
+purpose clause
+purposive causative
+quantifier
+quasi-degemination
+question
+question particle
+question word
+quinary
+quotative
+reanalysis
+recipient
+reciprocal pronoun
+reduplication
+reflexive pronoun
+relative clause
+relative pronoun
+relativization
+relativizer
+reported speech
+request
+response
+resumptive
+resumptive pronoun
+retrograde assimilation
+rhetorical question
+rounding
+Sahul
+scope
+semantic alignment
+semantic extension
+semantics
+sentential modifier
+separable verb
+Sepik River
+sequential
+sequential causative
+serial verb construction
+shift
+simple sentence
+simultaneous
+singular
+sound symbolism
+spatial postposition
+speculative
+speech
+speech-act participant
+split-intransitivity
+stem modification
+stop
+subject marker
+subordination
+subordinator
+substantive adjective
+suffix
+superlative
+suppletion
+suprasegmental feature
+suprasegmental modification
+switch reference
+syllabic consonant
+syllable
+syllable structure
+syllable-timed
+synecdoche
+synonymy
+syntactic change
+syntactic ergativity
+syntax
+synthetic
+synthetic passive
+taboo
+tag word
+tail-head linkage
+TAM
+telicity
+temporal
+temporal adverb
+temporal subordinate clause
+tense
+third person imperative
+tone
+topic-marker
+topic-marker pronoun
+toponym
+totum pro parte
+traditional name
+transitive
+transitivity
+transitivity class
+translative
+trochaic
+ultima
+unaccusative
+uncontrolled
+unergative
+universal quantifier
+uvular
+valence orientation
+valency
+valency reduction
+velar
+velar nasal
+verb phrase
+verb stem
+verbal inflection
+verbal morphology
+verbal negation
+verbalization
+vigesimal
+visibility
+vitality
+vocative
+voice
+voiced
+voiced affricate
+voiced stop
+voiceless
+voiceless stop
+volitionality
+volitive
+vowel
+vowel assimilation
+vowel elision
+vowel inventory
+vowel length
+wh-movement
+wh-question
+word class
+word order
+Yuat River
+zero copula

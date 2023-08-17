@@ -1,0 +1,22 @@
+aspect
+base
+case
+clause
+gap in phoneme inventory
+goal
+length
+name
+negative
+noun
+number
+object
+purpose
+source
+state
+stem
+stress
+subject
+theme
+topic
+time
+verb
